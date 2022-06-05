@@ -59,11 +59,14 @@ Se realiza el docker-compose <br>
 Vemos como una vez finalizado el docker-compose, ya estan iniciados los contenedores <br>
 ![image](https://user-images.githubusercontent.com/91566044/172072464-e1cb48df-6cf4-4484-a292-fcc4eb4834a6.png)
 
-Y si vamos a http://localhost:8080/PokemonFBM podemos encontrar la pagina
+Y si vamos a http://localhost:8080/PokemonFBM podemos encontrar la pagina <br>
 ![image](https://user-images.githubusercontent.com/91566044/172072509-8a769e58-749c-4381-b28e-294804ecbe52.png)
 
-![image](https://user-images.githubusercontent.com/91566044/172071617-769e9023-6378-46ff-8770-f7a613e13077.png)
+Añadimos tags a las imagenes <br>
+![image](https://user-images.githubusercontent.com/91566044/172071425-5286eb54-0695-430c-89a2-2b014504f445.png)
 
+Hacemos login en docker y iniciamos el push de las imagenes <br>
 ![image](https://user-images.githubusercontent.com/91566044/172071576-672c1ab7-a88d-4ffc-89c2-66107d619c64.png)
 
-![image](https://user-images.githubusercontent.com/91566044/172071425-5286eb54-0695-430c-89a2-2b014504f445.png)
+Comprobación en [DockerHub](https://hub.docker.com/r/marcsancho00/pokemon) del repositorio para ver que ha salido todo bien <br>
+![image](https://user-images.githubusercontent.com/91566044/172071617-769e9023-6378-46ff-8770-f7a613e13077.png)
