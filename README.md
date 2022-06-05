@@ -48,5 +48,6 @@ services:
 
 ## Resultado del Docker-Compose
 
+![image](https://user-images.githubusercontent.com/91566044/172071576-672c1ab7-a88d-4ffc-89c2-66107d619c64.png)
 
 
