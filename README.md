@@ -2,6 +2,8 @@
 
 # Despliegue del Proyecto en Docker
 
+## [DockerHub](https://hub.docker.com/r/marcsancho00/pokemon)
+
 ## Docker-Compose
 Tenemos que realizar un archivo **.yml** para hacer el Docker-Compose.
 
@@ -46,16 +48,9 @@ services:
       MYSQL_PASSWORD: 123456Fran
 ```
 
-## Resultado del Docker-Compose
-![image](https://user-images.githubusercontent.com/91566044/172071617-769e9023-6378-46ff-8770-f7a613e13077.png)
+## Procedimiento a realizar
 
-![image](https://user-images.githubusercontent.com/91566044/172071576-672c1ab7-a88d-4ffc-89c2-66107d619c64.png)
-
-![image](https://user-images.githubusercontent.com/91566044/172071425-5286eb54-0695-430c-89a2-2b014504f445.png)
-
-[DockerHub](https://hub.docker.com/r/marcsancho00/pokemon)
-
-Clonamos el proyecto a nuestra carpeta
+Empezamos clonando el proyecto a nuestra carpeta
 ![image](https://user-images.githubusercontent.com/91566044/172072376-181eee78-b6ae-495f-8b32-5298884d747b.png)
 
 Se realiza el docker-compose
@@ -66,3 +61,9 @@ Vemos como una vez finalizado el docker-compose, ya estan iniciados los contened
 
 Y si vamos a http://localhost:8080/PokemonFBM podemos encontrar la pagina
 ![image](https://user-images.githubusercontent.com/91566044/172072509-8a769e58-749c-4381-b28e-294804ecbe52.png)
+
+![image](https://user-images.githubusercontent.com/91566044/172071617-769e9023-6378-46ff-8770-f7a613e13077.png)
+
+![image](https://user-images.githubusercontent.com/91566044/172071576-672c1ab7-a88d-4ffc-89c2-66107d619c64.png)
+
+![image](https://user-images.githubusercontent.com/91566044/172071425-5286eb54-0695-430c-89a2-2b014504f445.png)
