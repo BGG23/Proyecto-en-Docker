@@ -13,7 +13,7 @@ services:
   db:
     image: mysql:8.0
     volumes:
-      - /opt/test:/var/lib/mysql
+      - ./test:/var/lib/mysql
       - ./BD:/docker-entrypoint-initdb.d
     environment:
       MYSQL_ROOT_PASSWORD: root
@@ -49,5 +49,7 @@ services:
 ## Resultado del Docker-Compose
 
 ![image](https://user-images.githubusercontent.com/91566044/172071576-672c1ab7-a88d-4ffc-89c2-66107d619c64.png)
+
+![image](https://user-images.githubusercontent.com/91566044/172071425-5286eb54-0695-430c-89a2-2b014504f445.png)
 
 
