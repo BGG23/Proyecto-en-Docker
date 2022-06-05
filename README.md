@@ -54,3 +54,15 @@ services:
 ![image](https://user-images.githubusercontent.com/91566044/172071425-5286eb54-0695-430c-89a2-2b014504f445.png)
 
 [DockerHub](https://hub.docker.com/r/marcsancho00/pokemon)
+
+Clonamos el proyecto a nuestra carpeta
+![image](https://user-images.githubusercontent.com/91566044/172072376-181eee78-b6ae-495f-8b32-5298884d747b.png)
+
+Se realiza el docker-compose
+![image](https://user-images.githubusercontent.com/91566044/172072393-51a61bdd-a57f-4127-92f2-f52c314951b7.png)
+
+Vemos como una vez finalizado el docker-compose, ya estan iniciados los contenedores
+![image](https://user-images.githubusercontent.com/91566044/172072464-e1cb48df-6cf4-4484-a292-fcc4eb4834a6.png)
+
+Y si vamos a http://localhost:8080/PokemonFBM podemos encontrar la pagina
+![image](https://user-images.githubusercontent.com/91566044/172072509-8a769e58-749c-4381-b28e-294804ecbe52.png)
