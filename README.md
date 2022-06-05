@@ -50,13 +50,13 @@ services:
 
 ## Procedimiento a realizar
 
-Empezamos clonando el proyecto a nuestra carpeta
+Empezamos clonando el proyecto a nuestra carpeta <br>
 ![image](https://user-images.githubusercontent.com/91566044/172072376-181eee78-b6ae-495f-8b32-5298884d747b.png)
 
-Se realiza el docker-compose
+Se realiza el docker-compose <br>
 ![image](https://user-images.githubusercontent.com/91566044/172072393-51a61bdd-a57f-4127-92f2-f52c314951b7.png)
 
-Vemos como una vez finalizado el docker-compose, ya estan iniciados los contenedores
+Vemos como una vez finalizado el docker-compose, ya estan iniciados los contenedores <br>
 ![image](https://user-images.githubusercontent.com/91566044/172072464-e1cb48df-6cf4-4484-a292-fcc4eb4834a6.png)
 
 Y si vamos a http://localhost:8080/PokemonFBM podemos encontrar la pagina
