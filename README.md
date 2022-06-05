@@ -2,7 +2,7 @@
 
 # Despliegue del Proyecto en Docker
 
-## [DockerHub](https://hub.docker.com/r/marcsancho00/pokemon)
+## [REPOSITORIO DE DOCKER HUB](https://hub.docker.com/r/marcsancho00/pokemon)
 
 ## Docker-Compose
 Tenemos que realizar un archivo **.yml** para hacer el Docker-Compose.
